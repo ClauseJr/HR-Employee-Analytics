@@ -1,7 +1,7 @@
 # HR-Employee-Analytics
 
 ## Objective
-The goal of this project is to analyze the sales data of Clause Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
+This HR analytics project aims to transform raw employee, training, recruitment, and survey data into actionable insights that support strategic decision-making in human capital management. The analysis helps HR leaders improve retention, optimize training investments, promote equity, enhance engagement, and strengthen workforce planning.
 
 ## Key Questions
 1. **Average Tenure by Department**  

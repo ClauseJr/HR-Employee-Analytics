@@ -45,7 +45,7 @@ This HR analytics project aims to transform raw employee, training, recruitment,
     
 
 ## Recommendations
-After analyzing the data, the recommended top three cities for new store openings are:
+After analyzing the data, the following recommendations were key:
 
 **Prioritize Retention of High-Performing Employees With 2+ Years Tenure**  
 1. Offer fast-track promotions and leadership training. 
@@ -66,4 +66,8 @@ After analyzing the data, the recommended top three cities for new store opening
 1. Standardize salary bands within departments and job titles.
 2. Identify roles with consistent pay gaps and address structural issues.
 3. Ensure transparent promotion and compensation processes.
+
+
+## Conclusions
+This HR Analytics project provides a comprehensive view of employee performance, retention, engagement, compensation, and training effectiveness across the organization. By leveraging key metrics such as tenure, performance ratings, satisfaction scores, gender distribution, and department-level trends, the analysis highlights several important insights that HR leadership should act on to improve workforce health and organizational effectiveness.
 ---

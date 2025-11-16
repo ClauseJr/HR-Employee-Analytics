@@ -47,19 +47,18 @@ This HR analytics project aims to transform raw employee, training, recruitment,
 ## Recommendations
 After analyzing the data, the recommended top three cities for new store openings are:
 
-**City 1: Pune**  
-1. Average rent per customer is very low.  
-2. Highest total revenue.  
-3. Average sales per customer is also high.
+**Prioritize Retention of High-Performing Employees With 2+ Years Tenure**  
+1. Offer fast-track promotions and leadership training. 
+2. Build succession plans based on top performers in each department.
+3. Use high performers as peer mentors for skill development.
+   
+**Improve Retention Through Targeted Department-Level Interventions**  
+1. Conduct exit interviews to identify root causes of turnover.  
+2. Strengthen onboarding, coaching, and mentorship for high-exit departments. 
+3. Review workload balance and supervisor effectiveness.
 
-**City 2: Delhi**  
-1. Highest estimated coffee consumers at 7.7 million.  
-2. Highest total number of customers, which is 68.  
-3. Average rent per customer is 330 (still under 500).
-
-**City 3: Jaipur**  
-1. Highest number of customers, which is 69.  
-2. Average rent per customer is very low at 156.  
-3. Average sales per customer is better at 11.6k.
-
+**Standardize Performance Evaluation Framework**  
+1. Provide supervisors with calibration guides to reduce rating bias.
+2. Introduce measurable KPIs tied to performance categories.
+3. Run quarterly review cycles instead of annual-only assessments.
 ---

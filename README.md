@@ -4,35 +4,44 @@
 The goal of this project is to analyze the sales data of Clause Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
 ## Key Questions
-1. **Coffee Consumers Count**  
-   How many people in each city are estimated to consume coffee, given that 25% of the population does?
+1. **Average Tenure by Department**  
+   Calculate the average tenure (in years) for employees in each department and show the total number of active employees per department.
 
-2. **Total Revenue from Coffee Sales**  
-   What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
+2. **Department Employee Count by Gender**  
+   List each department with the number of employees broken down by gender.
 
-3. **Sales Count for Each Product**  
-   How many units of each coffee product have been sold?
+3. **Training Participation per Employee**  
+   Identify employees who have attended at least one training and return their total number of trainings completed.
 
-4. **Average Sales Amount per City**  
-   What is the average sales amount per customer in each city?
+4. **Average Engagement Score per Department**  
+   Calculate the average engagement score for each department using the latest survey for each employee.
 
-5. **City Population and Coffee Consumers**  
-   Provide a list of cities along with their populations and estimated coffee consumers.
+5. **Cities with Highest Satisfaction Scores**  
+   Determine the top three states (or cities) where employees have the highest average satisfaction score.
 
-6. **Top Selling Products by City**  
-   What are the top 3 selling products in each city based on sales volume?
+6. **Training Effectiveness per Department**  
+   For each department, calculate the average performance score improvement for employees after attending trainings.
 
-7. **Customer Segmentation by City**  
-   How many unique customers are there in each city who have purchased coffee products?
+7. **Employees Without Training but High Performance**  
+   Identify employees who have not completed any trainings in the past year but have performance scores above 4.
 
-8. **Average Sale vs Rent**  
-   Find each city and their average sale per customer and avg rent per customer
+8. **Retention Rate by Department**  
+   Calculate the retention rate per department over the last two years and identify departments with below-average retention.
 
-9. **Monthly Sales Growth**  
-   Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+9. **Compare Performance and Engagement by Supervisor**  
+   Rank supervisors by the average performance and engagement scores of their team members.
 
-10. **Market Potential Analysis**  
-    Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated  coffee consumer
+10. **Compare Experience and Performance Analysis**  
+    Group employees by years of experience (0–3, 4–7, 8–12, 13+) and calculate the average performance and satisfaction scores for each group.
+    
+11. **Top Performing Employees by Department**  
+   Determine the top 5 employees in each department based on overall performance rating, considering only those with at least two years of tenure.
+
+12. **Gender Pay Gap Analysis**  
+   Analyze the average pay (or pay zone proxy) between genders within each department and job title, ranking the largest gaps first.
+
+13. **Comprehensive Workforce Health Dashboard**  
+   Generate a summary table per department including total employees, average age, average tenure, average engagement, average satisfaction, retention rate, and gender ratio.
     
 
 ## Recommendations

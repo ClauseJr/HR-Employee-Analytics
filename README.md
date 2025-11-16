@@ -61,4 +61,9 @@ After analyzing the data, the recommended top three cities for new store opening
 1. Provide supervisors with calibration guides to reduce rating bias.
 2. Introduce measurable KPIs tied to performance categories.
 3. Run quarterly review cycles instead of annual-only assessments.
+
+**Conduct Regular Gender Pay Equity Reviews**
+1. Standardize salary bands within departments and job titles.
+2. Identify roles with consistent pay gaps and address structural issues.
+3. Ensure transparent promotion and compensation processes.
 ---

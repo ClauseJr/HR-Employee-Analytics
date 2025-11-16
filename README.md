@@ -69,5 +69,7 @@ After analyzing the data, the following recommendations were key:
 
 
 ## Conclusions
+
 This HR Analytics project provides a comprehensive view of employee performance, retention, engagement, compensation, and training effectiveness across the organization. By leveraging key metrics such as tenure, performance ratings, satisfaction scores, gender distribution, and department-level trends, the analysis highlights several important insights that HR leadership should act on to improve workforce health and organizational effectiveness.
+
 ---

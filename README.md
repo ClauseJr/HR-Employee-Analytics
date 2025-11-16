@@ -1,4 +1,4 @@
-# HR-Employee-Analytics
+# HR-Employees-Analytics-Project
 
 ## Objective
 This HR analytics project aims to transform raw employee, training, recruitment, and survey data into actionable insights that support strategic decision-making in human capital management. The analysis helps HR leaders improve retention, optimize training investments, promote equity, enhance engagement, and strengthen workforce planning.
